@@ -7,7 +7,7 @@ Created on Sun May 15 13:33:48 2022
 import tkinter as tk 
 import random
 import datetime as date
-import janela2
+import window2
 
 class janela:
     
