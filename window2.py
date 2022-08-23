@@ -7,7 +7,7 @@ Created on Mon May 16 23:22:29 2022
 
 import tkinter as tk
 
-class janela2:
+class window2:
     
     def __init__(self):
         self.app = tk.Tk()

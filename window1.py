@@ -58,7 +58,7 @@ class janela:
         f.close()#Abre o ficheiro, escreve sempre que uma chave é gerada e fecha o ficheiro
      
     def verChaves(self):
-        janela2.janela2()#Importa a janela das chaves geradas
+        window2.window2()#Importa a janela das chaves geradas
          
 a=janela()
 
